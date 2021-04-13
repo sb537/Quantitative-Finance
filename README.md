@@ -1,5 +1,8 @@
 # Quantitative-Finance
 
-Olá, sejam bem-vindos meu repositório de Finanças Quantitativas. 
+- 👋 Hello. This is my Quantitative Finance repository...
+- 👀 This repository is focused on Algorading, Portfolio Management, Data Visualization and Quantitative Methods applied to Finance.
 
-Aqui irei publicar alguns códigos ligados ao tópico de Fin. Quant. 
+- 📫 How to contact me: 
+  * LinkedIn: linkedin.com/in/saulo-brendo
+  * E-mail: saulo.brendo@ufba.br
